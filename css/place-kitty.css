@@ -1,8 +1,8 @@
 /* Select the image with a class of kitty-1 */
 
 #kitty-1 {
-  position: relative;
-  z-index: 0;
+  position: absolute;
+  z-index: 2;
   top: 200px;
   left: 129px;
 }
