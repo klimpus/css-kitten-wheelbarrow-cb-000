@@ -2,8 +2,8 @@
 
 kitty-1 {
   position: absolute;
-  z-index: 1;
-  top: 260px;
+  z-index: 0;
+  top: 200px;
   left: 129px;
 }
 
